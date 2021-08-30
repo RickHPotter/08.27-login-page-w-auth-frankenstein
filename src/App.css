@@ -1,0 +1,13 @@
+body 
+{ 
+    background: linear-gradient(to right, 
+        #ADD8E6 01%, white 20%, lightblue 25%, #ADD8E6 86%, #99CFFF 99%); 
+    
+	position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.wrapper { padding: 20px; }
